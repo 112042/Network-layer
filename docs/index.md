@@ -1,5 +1,4 @@
 <!--index.html-->
-<!DOCTYPE html>
 <html>
     <title>計概檢討</title>
     <style>
